@@ -1,7 +1,9 @@
-### My Personal Checklist App
+# Project 7: My Personal Checklist App
 
 **Intro**
 I have created a simple to do app that I have named "My Personal Checklist App".
+
+### Overview
 
 *Functionality
 *Technology
