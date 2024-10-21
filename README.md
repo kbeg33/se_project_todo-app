@@ -5,9 +5,10 @@ I have created a simple to do app that I have named "My Personal Checklist App".
 
 ### Overview
 
-*Functionality
-*Technology
-*Github page
+* Functionality
+* Images
+* Technology
+* Github page
 
 
 
