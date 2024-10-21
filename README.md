@@ -28,14 +28,14 @@ This project is a simple ToDo app. It will display several ToDo notes in a list,
 
 **My project features**
 
--ES6 classes
--Import and export of .js files
--Refactoring of configuration settings and functionality
--Object oriented programming
--Private class methods and declarations
--Public enableValidation method
--Javascript template element
--UUid to create unique id
+- ES6 classes
+- Import and export of .js files
+- Refactoring of configuration settings and functionality
+- Object oriented programming
+- Private class methods and declarations
+- Public enableValidation method
+- Javascript template element
+- UUid to create unique id
 
 
 
